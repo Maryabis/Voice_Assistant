@@ -15,9 +15,6 @@ A Python-based virtual mouse system that uses hand gestures to control cursor mo
 - NumPy
 - Computer Vision
 
-## 📸 Demo
-[Add a GIF or screenshot here]
-
 ## 📦 Installation
 ```bash
 git clone https://github.com/Maryabis/Virtual_Mouse.git
