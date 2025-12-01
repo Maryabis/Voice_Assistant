@@ -24,10 +24,3 @@ git clone https://github.com/Maryabis/Virtual_Mouse.git
 cd Virtual_Mouse
 pip install -r requirements.txt
 python main.py
-
-
-5. **Ensure all resume projects are on GitHub**
-
-Your GitHub is your **coding portfolio** - make it as professional as your resume! Recruiters WILL check it.
-
-Would you like help creating a README file for your Bharatanatyam project?
